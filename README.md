@@ -28,5 +28,5 @@ An ESP32-based wearable safety device that triggers SOS alerts via Gmail based o
     The `secrets.h` file is excluded from this repo for security. Create a file named `secrets.h` in the source folder with your WiFi and Email credentials.
 
 4.  **Upload:**
-    Connect ESP32 via USB and upload using Arduino IDE.![f7e12506-91d3-46e2-b18b-749b2acbc7fb](https://github.com/user-attachments/assets/2203503b-478c-440b-8289-f93f8fcf5e76)
+    Connect ESP32 via USB and upload using Arduino IDE.
 
