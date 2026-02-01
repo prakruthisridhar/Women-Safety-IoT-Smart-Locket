@@ -20,7 +20,7 @@ An ESP32-based wearable safety device that triggers SOS alerts via Gmail based o
 1.  **Clone the repo:**
     ```bash
     git clone [https://github.com/prakruthisridhar/Women-Safety-IoT-Smart-Locket.git](https://github.com/prakruthisridhar/Women-Safety-IoT-Smart-Locket.git)
-    ```
+    
 2.  **Important Note on Folders:**
     Arduino requires the file and folder names to match. After downloading, ensure your folder is named `women_safety_device` to match the `women_safety_device.ino` file.
 
@@ -28,4 +28,5 @@ An ESP32-based wearable safety device that triggers SOS alerts via Gmail based o
     The `secrets.h` file is excluded from this repo for security. Create a file named `secrets.h` in the source folder with your WiFi and Email credentials.
 
 4.  **Upload:**
-    Connect ESP32 via USB and upload using Arduino IDE.
+    Connect ESP32 via USB and upload using Arduino IDE.![f7e12506-91d3-46e2-b18b-749b2acbc7fb](https://github.com/user-attachments/assets/2203503b-478c-440b-8289-f93f8fcf5e76)
+
